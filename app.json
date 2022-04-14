@@ -1,5 +1,5 @@
 {
-      "name": "SuzuneRobot",
+      "name": "NobitaRobot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "PglRobot"
       ],   
-   "repository": "https://github.com/desinobita/suzunerobot",
+   "repository": "https://github.com/nobitashizuka/NOBITAROBOT",
    "addons": [
       {
          "options": {
